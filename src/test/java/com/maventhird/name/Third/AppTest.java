@@ -1,4 +1,4 @@
-package com.maventhird.name.TaskNo1;
+package com.maventhird.name.Third;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
